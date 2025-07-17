@@ -1,0 +1,16 @@
+{
+  "name": "dsa-study",
+  "version": "1.0.0",
+  "main": "trees.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hashmap.js",
+    "dev": "nodemon leetcode.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "description": ""
+}
